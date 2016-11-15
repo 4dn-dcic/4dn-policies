@@ -34,7 +34,7 @@ Software tools for data analysis and processing should be released as soon as th
 
 Other software should be released with the release of the manuscript according to the publication policy and the Tier system. 
 
-*Software that has been released only within the network (Tier 1)  cannot be used in any publications of network members, whether for projects funded by 4DN or otherwise.* By requiring that any software used to generate hypotheses or results presented in a publication is publicly available (Tier 2), we will enable the broader community to repeat studies and reproduce findings.
+__Software that has been released only within the network (Tier 1)  cannot be used in any publications of network members, whether for projects funded by 4DN or otherwise.__ By requiring that any software used to generate hypotheses or results presented in a publication is publicly available (Tier 2), we will enable the broader community to repeat studies and reproduce findings.
 
 
 ## How to Release
@@ -53,11 +53,11 @@ Developers who release software publicly (Tier 2) should ensure that their softw
 
 ## Other Considerations
 
-*Accompanying publications*: In addition to the release of well-documented code, we strongly encourage developers to publish citable descriptions of their software. We recommend that authors describe their software in methodological papers so that they can receive credit for their work. These can be published in conventional journals, and/or disseminated pre-publication through pre-print servers (e.g. bioRxiv). 
+__Accompanying publications__: In addition to the release of well-documented code, we strongly encourage developers to publish citable descriptions of their software. We recommend that authors describe their software in methodological papers so that they can receive credit for their work. These can be published in conventional journals, and/or disseminated pre-publication through pre-print servers (e.g. bioRxiv). 
 
-*Dissemination of more complex pipelines*: For most complex analyses, multiple software components are routinely combined to generate intermediate datasets. For reproducibility of these results, analysts should document all software components used, and the specific software versions utilized. We encourage (1) documenting these components; (2) providing scripts that reproduce key figures in 4DN publications; (3) establishing reusable, publicly accessible analysis pipelines (e.g. Galaxy, virtual machines, Docker, workflows compatible with systems provided by (commercial) cloud-based analysis providers); and (4) linking these through the DCIC website.
+__Dissemination of more complex pipelines__: For most complex analyses, multiple software components are routinely combined to generate intermediate datasets. For reproducibility of these results, analysts should document all software components used, and the specific software versions utilized. We encourage (1) documenting these components; (2) providing scripts that reproduce key figures in 4DN publications; (3) establishing reusable, publicly accessible analysis pipelines (e.g. Galaxy, virtual machines, Docker, workflows compatible with systems provided by (commercial) cloud-based analysis providers); and (4) linking these through the DCIC website.
 
-*Current and future support for released software*: Tier 2 Software that will be released for publication and to repositories (e.g., Github) should state the types and degree of support users can expect for them to download, run, and troubleshoot the available software as well as whether or not updates and “fixes” should be expected. In many cases, the expectation is that there is minimal support for users, ie, the software is provided for reproducibility purposes, and not for outside use. The state of the software should be documented in a README file that is part of the software. 
+__Current and future support for released software__: Tier 2 Software that will be released for publication and to repositories (e.g., Github) should state the types and degree of support users can expect for them to download, run, and troubleshoot the available software as well as whether or not updates and “fixes” should be expected. In many cases, the expectation is that there is minimal support for users, ie, the software is provided for reproducibility purposes, and not for outside use. The state of the software should be documented in a README file that is part of the software. 
 
 
 ## Contributors
