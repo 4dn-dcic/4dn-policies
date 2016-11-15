@@ -49,7 +49,7 @@ __Related Work__: We encourage network members to share information about planne
 
 ### Policy Working Group - Grantees
 
-Co-Chairs: Nils Gehlenborg, Leonid Mirny
+_Co-Chairs_: Nils Gehlenborg, Leonid Mirny
 
 Stephanie Alexander, Ewan Birney, Job Dekker, Larry Gerace, Mike Levine, Timothée Lionnet, Chuck Murry, Shankar Subramaniam, Huimin Zhao
 
