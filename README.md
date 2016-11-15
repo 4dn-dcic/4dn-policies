@@ -8,7 +8,7 @@ This repository contains policies that guide the work of the 4D Nucleome Network
 
 Policies can be referenced and cited as follows:
 
-4D Nucleome Network (2016). 4D Nucleome Policies: 2016-11-15 Release. Zenodo. http://doi.org/10.5281/zenodo.166742
+> 4D Nucleome Network (2016). 4D Nucleome Policies: 2016-11-15 Release. Zenodo. http://doi.org/10.5281/zenodo.166742
 
 ## Contact
 
