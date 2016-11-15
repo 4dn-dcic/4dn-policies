@@ -21,3 +21,5 @@ Questions, concerns, and suggestions should be directed to the 4D Nucleome Polic
 
 - Nils Gehlenborg (nils@hms.harvard.edu)
 - Leonid Mirny (leonid@mit.edu)
+
+You may also submit a [GitHub issue](https://github.com/4dn-dcic/4dn-policies/issues) and pull requests will be considered.
