@@ -4,10 +4,9 @@
 
 This repository contains policies that guide the work of the 4D Nucleome Network (http://4dnucleome.org). 
 
+* [Data Release and Use Policy](https://github.com/4dn-dcic/4dn-policies/blob/master/4dn-data-release-and-use-policy.md#4d-nucleome-project---data-release-and-use-policy)
 * [Publication Policy](https://github.com/4dn-dcic/4dn-policies/blob/master/4dn-publication-policy.md#4d-nucleome-project---publication-policy)
 * [Software Sharing Policy](https://github.com/4dn-dcic/4dn-policies/blob/master/4dn-software-sharing-policy.md#4d-nucleome-project---software-sharing-policy) 
-
-The _Data Release Policy_ is under development and will be posted here once approved.
 
 ## Citation
 
