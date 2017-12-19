@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/73828171.svg)](https://zenodo.org/badge/latestdoi/73828171)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1119074.svg)](https://doi.org/10.5281/zenodo.1119074)
 
 # NIH Common Fund 4D Nucleome Network Policies
 
@@ -12,7 +12,7 @@ This repository contains policies that guide the work of the 4D Nucleome Network
 
 Policies can be referenced and cited as follows:
 
-> 4D Nucleome Network (2016). 4D Nucleome Policies: 2016-11-15 Release. Zenodo. http://doi.org/10.5281/zenodo.166742
+> 4D Nucleome Network (2017). 4D Nucleome Policies: 2017-12-19 Release. Zenodo. https://doi.org/10.5281/zenodo.1119074
 
 ## Contact
 
